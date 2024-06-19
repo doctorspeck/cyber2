@@ -1,2 +1,8 @@
-/Johnny_Silverhand_Theme.mp3
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: same-origin
+  Content-Security-Policy: frame-ancestors 'none'
+
+/*.mp3
   Content-Type: audio/mpeg
