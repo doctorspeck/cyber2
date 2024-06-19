@@ -1,9 +1,10 @@
-/templates/index.html
+/index.html
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
 
-/templates/index2.html
-  X-Frame-Options: SAMEORIGIN
-
 /*.mp3
   Content-Type: audio/mpeg
+
+/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET
